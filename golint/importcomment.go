@@ -10,4 +10,4 @@
 // any breakages coincide with people updating their CI configs or
 // whatnot.
 
-package main // import "golang.org/x/lint/golint"
+package main // import "github.com/golangci/lint-1/golint"
